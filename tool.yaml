@@ -1,0 +1,8 @@
+slug: my-tool
+name: My Tool
+description: One-line summary of what it does (max 160 characters).
+intended_users:
+  - engineer
+repository_url: https://github.com/tiptipid/my-tool
+# website_url: https://my-tool.pages.dev
+# thumbnail_url: https://example.com/thumb.png
